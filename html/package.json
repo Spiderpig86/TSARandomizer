@@ -1,0 +1,15 @@
+{
+  "name": "tsarandomhtml",
+  "version": "1.0.0",
+  "description": "Web app version of the TSA randomizer",
+  "main": "index.js",
+  "dependencies": {
+    "dateformat": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stanley Lim",
+  "license": "ISC"
+}
