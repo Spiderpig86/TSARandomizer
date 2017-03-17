@@ -1,0 +1,14 @@
+﻿<Window x:Class="TSA_Randomizer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label Content="TSA Randomizer" HorizontalAlignment="Center" Margin="167,29,153,0" VerticalAlignment="Top" FontSize="24" Width="197"/>
+        <Label Name="lastUpd" Content="Click or tap to generate a random direction." HorizontalAlignment="Center" Margin="139,76,117,0" VerticalAlignment="Top" Width="261"/>
+        <Grid HorizontalAlignment="Stretch" Height="150" Margin="0,169,0,0" VerticalAlignment="Top" Width="517">
+            <Image Name="imgArrow" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Width="517"/>
+        </Grid>
+        <Button Content="Generate" HorizontalAlignment="Center" Margin="167,127,177,0" VerticalAlignment="Top" Width="173" Height="26" Click="Button_Click"/>
+
+    </Grid>
+</Window>
