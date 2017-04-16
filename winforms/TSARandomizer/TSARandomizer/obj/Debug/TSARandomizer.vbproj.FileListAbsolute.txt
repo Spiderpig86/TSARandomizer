@@ -1,0 +1,9 @@
+C:\Users\Stan\Desktop\TSA Randomizer\winforms\TSARandomizer\TSARandomizer\bin\Debug\TSARandomizer.exe
+C:\Users\Stan\Desktop\TSA Randomizer\winforms\TSARandomizer\TSARandomizer\bin\Debug\TSARandomizer.pdb
+C:\Users\Stan\Desktop\TSA Randomizer\winforms\TSARandomizer\TSARandomizer\bin\Debug\TSARandomizer.xml
+C:\Users\Stan\Desktop\TSA Randomizer\winforms\TSARandomizer\TSARandomizer\obj\Debug\TSARandomizer.Randomizer.resources
+C:\Users\Stan\Desktop\TSA Randomizer\winforms\TSARandomizer\TSARandomizer\obj\Debug\TSARandomizer.Resources.resources
+C:\Users\Stan\Desktop\TSA Randomizer\winforms\TSARandomizer\TSARandomizer\obj\Debug\TSARandomizer.vbproj.GenerateResource.Cache
+C:\Users\Stan\Desktop\TSA Randomizer\winforms\TSARandomizer\TSARandomizer\obj\Debug\TSARandomizer.exe
+C:\Users\Stan\Desktop\TSA Randomizer\winforms\TSARandomizer\TSARandomizer\obj\Debug\TSARandomizer.xml
+C:\Users\Stan\Desktop\TSA Randomizer\winforms\TSARandomizer\TSARandomizer\obj\Debug\TSARandomizer.pdb
